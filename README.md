@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MuqaddasSaleem
+- 👀 I am interested to learn computer languages ​​to build AI models & in site development.
+- 🌱 I’m currently learning Certified Cloud Applied Generative Artifical Intelligence.
+- 💞️ I’m looking to collaborate on my projects.
+- 📫 Contact me on @muqaddassaleem78@gmail.com
